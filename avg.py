@@ -13,7 +13,7 @@ def average():
         sum = sum+i
         end = sum/len(l)
         
-    print(end)
+    print("The average is",end)
 
         
 
